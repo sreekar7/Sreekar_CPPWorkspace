@@ -1,0 +1,15 @@
+00:47:04 **** Build of configuration Debug for project OperOverLoadWMemFun ****
+make all 
+Building file: ../OperOverLoadWMemFun.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"OperOverLoadWMemFun.d" -MT"OperOverLoadWMemFun.o" -o "OperOverLoadWMemFun.o" "../OperOverLoadWMemFun.cpp"
+Finished building: ../OperOverLoadWMemFun.cpp
+ 
+Building target: OperOverLoadWMemFun.exe
+Invoking: Cygwin C++ Linker
+g++  -o "OperOverLoadWMemFun.exe"  ./OperOverLoadWMemFun.o   
+Finished building target: OperOverLoadWMemFun.exe
+ 
+
+00:47:05 Build Finished (took 944ms)
+

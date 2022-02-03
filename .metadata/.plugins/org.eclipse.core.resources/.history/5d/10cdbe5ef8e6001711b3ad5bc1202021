@@ -1,0 +1,32 @@
+#include <cstdio>
+#include <iostream>
+
+using namespace std;
+
+class Sample{
+private:
+	int a;
+public:
+	Sample() { }
+	Sample(const int &ia) { 
+		a = ia;
+	}	
+	void setA(const int & ia);
+	int getA();
+};
+
+void Sample::setA(const int & ia){
+	a = ia;
+}
+
+int Sample::getA(){
+	return a;
+}
+
+int main(){
+
+	Sample a;
+	a.setA(21);
+	printf("The value is: %d\n", a.getA();
+	
+}

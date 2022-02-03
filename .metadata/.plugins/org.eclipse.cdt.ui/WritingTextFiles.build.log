@@ -1,0 +1,15 @@
+00:47:06 **** Build of configuration Debug for project WritingTextFiles ****
+make all 
+Building file: ../ofstream.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"ofstream.d" -MT"ofstream.o" -o "ofstream.o" "../ofstream.cpp"
+Finished building: ../ofstream.cpp
+ 
+Building target: WritingTextFiles.exe
+Invoking: Cygwin C++ Linker
+g++  -o "WritingTextFiles.exe"  ./ofstream.o   
+Finished building target: WritingTextFiles.exe
+ 
+
+00:47:07 Build Finished (took 1s.161ms)
+

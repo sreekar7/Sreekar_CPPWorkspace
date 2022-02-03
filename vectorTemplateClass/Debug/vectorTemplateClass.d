@@ -1,0 +1,1 @@
+vectorTemplateClass.o: ../vectorTemplateClass.cpp

@@ -1,0 +1,15 @@
+21:22:40 **** Incremental Build of configuration Debug for project OverloadingAssignmentOp ****
+make all 
+Building file: ../OverloadingAssignmentOp.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"OverloadingAssignmentOp.d" -MT"OverloadingAssignmentOp.o" -o "OverloadingAssignmentOp.o" "../OverloadingAssignmentOp.cpp"
+Finished building: ../OverloadingAssignmentOp.cpp
+ 
+Building target: OverloadingAssignmentOp.exe
+Invoking: Cygwin C++ Linker
+g++  -o "OverloadingAssignmentOp.exe"  ./OverloadingAssignmentOp.o   
+Finished building target: OverloadingAssignmentOp.exe
+ 
+
+21:22:41 Build Finished (took 1s.45ms)
+

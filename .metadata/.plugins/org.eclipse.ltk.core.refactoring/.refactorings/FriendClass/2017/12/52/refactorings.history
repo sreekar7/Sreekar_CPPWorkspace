@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FriendClass/Inhertitence.cpp&apos; to &apos;FriendClass.cpp&apos;" description="Rename resource &apos;Inhertitence.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Inhertitence.cpp" name="FriendClass.cpp" stamp="1514274746505" updateReferences="true"/>
+</session>

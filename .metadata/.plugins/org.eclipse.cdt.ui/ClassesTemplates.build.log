@@ -1,0 +1,15 @@
+00:06:45 **** Build of configuration Debug for project ClassesTemplates ****
+make all 
+Building file: ../ClassesTemplates.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"ClassesTemplates.d" -MT"ClassesTemplates.o" -o "ClassesTemplates.o" "../ClassesTemplates.cpp"
+Finished building: ../ClassesTemplates.cpp
+ 
+Building target: ClassesTemplates.exe
+Invoking: Cygwin C++ Linker
+g++  -o "ClassesTemplates.exe"  ./ClassesTemplates.o   
+Finished building target: ClassesTemplates.exe
+ 
+
+00:06:46 Build Finished (took 850ms)
+

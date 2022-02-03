@@ -1,0 +1,1 @@
+StacknQueues.o: ../StacknQueues.cpp

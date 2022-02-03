@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="804" key="DIALOG_X_ORIGIN"/>
+		<item value="35" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="250" key="dialogHeight"/>
+		<item value="350" key="dialogWidth"/>
+		<list key="textEntries">
+			<item value="1"/>
+		</list>
+		<list key="orderedElements">
+			<item value="org.eclipse.cdt.ui.editor.CEditorMultiMap/MultiMap.cpp"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.editors"/>
+		</list>
+		<list key="textArray">
+			<item value="multimap"/>
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item value="C:\Users\Deeshu\Downloads\theme-3.epf" key=""/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Deeshu\Downloads\theme-3.epf"/>
+			<item value="C:\Users\Deeshu\Downloads\theme-1.epf"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item value="934" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="982" key="DIALOG_HEIGHT"/>
+		<item value="-190" key="DIALOG_X_ORIGIN"/>
+		<item value="-182" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.Preferences" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,1 @@
+TemplateFuns.o: ../TemplateFuns.cpp

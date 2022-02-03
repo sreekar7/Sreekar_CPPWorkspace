@@ -1,0 +1,1 @@
+ReadingNwritingBinaryFiles.o: ../ReadingNwritingBinaryFiles.cpp

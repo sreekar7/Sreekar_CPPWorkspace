@@ -1,0 +1,15 @@
+11:17:02 **** Build of configuration Debug for project ArraysNFunctions ****
+make all 
+Building file: ../src/ArraysNFunctions.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ArraysNFunctions.d" -MT"src/ArraysNFunctions.o" -o "src/ArraysNFunctions.o" "../src/ArraysNFunctions.cpp"
+Finished building: ../src/ArraysNFunctions.cpp
+ 
+Building target: ArraysNFunctions.exe
+Invoking: Cygwin C++ Linker
+g++  -o "ArraysNFunctions.exe"  ./src/ArraysNFunctions.o   
+Finished building target: ArraysNFunctions.exe
+ 
+
+11:17:07 Build Finished (took 5s.272ms)
+

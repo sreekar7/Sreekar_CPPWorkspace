@@ -1,0 +1,15 @@
+00:47:02 **** Incremental Build of configuration Debug for project FunPtrs ****
+make all 
+Building file: ../FunPtrs.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"FunPtrs.d" -MT"FunPtrs.o" -o "FunPtrs.o" "../FunPtrs.cpp"
+Finished building: ../FunPtrs.cpp
+ 
+Building target: FunPtrs.exe
+Invoking: Cygwin C++ Linker
+g++  -o "FunPtrs.exe"  ./FunPtrs.o   
+Finished building target: FunPtrs.exe
+ 
+
+00:47:03 Build Finished (took 895ms)
+

@@ -1,0 +1,1 @@
+stringStream.o: ../stringStream.cpp

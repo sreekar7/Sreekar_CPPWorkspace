@@ -1,0 +1,1 @@
+TemplateClass.o: ../TemplateClass.cpp

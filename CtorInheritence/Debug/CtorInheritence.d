@@ -1,0 +1,1 @@
+CtorInheritence.o: ../CtorInheritence.cpp

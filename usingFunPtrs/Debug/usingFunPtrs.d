@@ -1,0 +1,1 @@
+usingFunPtrs.o: ../usingFunPtrs.cpp

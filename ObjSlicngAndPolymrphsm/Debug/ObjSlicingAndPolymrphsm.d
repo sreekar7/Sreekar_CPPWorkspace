@@ -1,0 +1,1 @@
+ObjSlicingAndPolymrphsm.o: ../ObjSlicingAndPolymrphsm.cpp

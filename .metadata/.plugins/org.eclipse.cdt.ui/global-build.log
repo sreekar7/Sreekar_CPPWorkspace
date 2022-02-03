@@ -1,0 +1,36 @@
+21:01:53 **** Incremental Build of configuration Debug for project StringClass ****
+make all 
+Building file: ../StringClass.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"StringClass.d" -MT"StringClass.o" -o "StringClass.o" "../StringClass.cpp"
+Finished building: ../StringClass.cpp
+ 
+Building target: StringClass.exe
+Invoking: Cygwin C++ Linker
+g++  -o "StringClass.exe"  ./StringClass.o   
+Finished building target: StringClass.exe
+ 
+21:01:56 **** Incremental Build of configuration Debug for project StringClass ****
+make all 
+make: Nothing to be done for 'all'.
+11:02:10 **** Build of configuration Debug for project 2DVector ****
+make all 
+make: Nothing to be done for 'all'.
+11:02:32 **** Incremental Build of configuration Debug for project 2DVector ****
+make all 
+make: Nothing to be done for 'all'.
+11:02:33 **** Build of configuration Debug for project FriendClass ****
+make all 
+make: Nothing to be done for 'all'.
+11:17:02 **** Build of configuration Debug for project ArraysNFunctions ****
+make all 
+Building file: ../src/ArraysNFunctions.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ArraysNFunctions.d" -MT"src/ArraysNFunctions.o" -o "src/ArraysNFunctions.o" "../src/ArraysNFunctions.cpp"
+Finished building: ../src/ArraysNFunctions.cpp
+ 
+Building target: ArraysNFunctions.exe
+Invoking: Cygwin C++ Linker
+g++  -o "ArraysNFunctions.exe"  ./src/ArraysNFunctions.o   
+Finished building target: ArraysNFunctions.exe
+ 

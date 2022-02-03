@@ -1,0 +1,15 @@
+00:47:08 **** Build of configuration Debug for project vectorTemplateClass ****
+make all 
+Building file: ../vectorTemplateClass.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"vectorTemplateClass.d" -MT"vectorTemplateClass.o" -o "vectorTemplateClass.o" "../vectorTemplateClass.cpp"
+Finished building: ../vectorTemplateClass.cpp
+ 
+Building target: vectorTemplateClass.exe
+Invoking: Cygwin C++ Linker
+g++  -o "vectorTemplateClass.exe"  ./vectorTemplateClass.o   
+Finished building target: vectorTemplateClass.exe
+ 
+
+00:47:09 Build Finished (took 1s.44ms)
+

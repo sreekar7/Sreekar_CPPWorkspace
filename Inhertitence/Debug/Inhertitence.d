@@ -1,0 +1,1 @@
+Inhertitence.o: ../Inhertitence.cpp

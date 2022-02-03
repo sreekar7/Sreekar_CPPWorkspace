@@ -1,0 +1,1 @@
+newNDelete.o: ../newNDelete.cpp

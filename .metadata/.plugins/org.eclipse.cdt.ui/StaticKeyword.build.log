@@ -1,0 +1,15 @@
+20:53:32 **** Incremental Build of configuration Debug for project StaticKeyword ****
+make all 
+Building file: ../src/StaticKeyword.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/StaticKeyword.d" -MT"src/StaticKeyword.o" -o "src/StaticKeyword.o" "../src/StaticKeyword.cpp"
+Finished building: ../src/StaticKeyword.cpp
+ 
+Building target: StaticKeyword.exe
+Invoking: Cygwin C++ Linker
+g++  -o "StaticKeyword.exe"  ./src/StaticKeyword.o   
+Finished building target: StaticKeyword.exe
+ 
+
+20:53:33 Build Finished (took 893ms)
+

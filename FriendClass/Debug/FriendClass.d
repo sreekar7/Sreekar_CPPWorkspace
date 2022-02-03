@@ -1,0 +1,1 @@
+FriendClass.o: ../FriendClass.cpp
